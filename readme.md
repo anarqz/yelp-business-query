@@ -1,6 +1,6 @@
-# YELP! Duck Duck Go instant local
+# YELP! Business Query
 
-Lookup for a place in yelp using duckduckgo instant script
+Query companies by name and location using duckduckgo local.js strategy 
 
 ## Requirements
 
